@@ -98,3 +98,4 @@ I utilized AI tools selectively for assistance in:
 The core design, coding, and testing were independently developed. AI served as a valuable support tool enhancing efficiency without replacing personal expertise.
 
 ---
+ ![image alt](https://github.com/KaustubhKolhe19/TDD-Kata-Sweet-Shop-Management-System/blob/main/Login.jpg?raw=true)
